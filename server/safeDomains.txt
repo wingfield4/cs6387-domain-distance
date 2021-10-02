@@ -1,0 +1,10 @@
+google.com
+facebook.com
+amazon.com
+youtube.com
+twitter.com
+cryptiq.io
+twitch.tv
+gmail.com
+coinbase.com
+linkedin.com
